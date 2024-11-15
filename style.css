@@ -1,0 +1,20 @@
+
+.contact{
+    text-align: right;
+}
+
+.banner{
+    height: 600px;
+}
+@media screen and (max-width: 430px) {
+    .contact{
+        text-align: center;
+    }
+    .banner{
+        height: 300px;
+    }
+    body{
+        margin-top: 50px;
+    }
+    
+}
